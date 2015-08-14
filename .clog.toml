@@ -1,0 +1,8 @@
+[clog]
+repository = "https://github.com/kbknapp/rwc"
+outfile = "CHANGELOG.md"
+from-latest-tag = true
+
+[sections]
+Documentation = ["docs"]
+Improvements = ["imp"]
